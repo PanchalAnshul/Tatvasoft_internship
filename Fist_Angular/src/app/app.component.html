@@ -1,0 +1,11 @@
+<div style="text-align:center; margin-top: 50px;">
+  <h1>Welcome to Angular!</h1>
+
+  <button (click)="toggleMessage()">
+    {{ showMessage ? 'Hide' : 'Show' }} Message
+  </button>
+
+  <div *ngIf="showMessage" style="margin-top: 20px;">
+    <p>This is a simple Angular message.</p>
+  </div>
+</div>
