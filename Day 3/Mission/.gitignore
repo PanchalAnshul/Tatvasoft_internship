@@ -1,9 +1,14 @@
+# Ignore folders
 .vs/
-*.user
-*.suo
+.dist/
 bin/
 obj/
 node_modules/
-dist/
-.env
+
+# Ignore environment or sensitive files
+*.env
 *.log
+
+# Ignore system files
+Thumbs.db
+desktop.ini
