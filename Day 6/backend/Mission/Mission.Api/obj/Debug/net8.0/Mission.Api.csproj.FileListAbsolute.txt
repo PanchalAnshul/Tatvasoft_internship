@@ -1,0 +1,383 @@
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.staticwebassets.endpoints.json
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.exe
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.deps.json
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.runtimeconfig.json
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.pdb
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Services.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Services.pdb
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.csproj.AssemblyReference.cache
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.AssemblyInfoInputs.cache
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.AssemblyInfo.cs
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.csproj.CoreCompileInputs.cache
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\scopedcss\bundle\Mission.Api.styles.css
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission..D685B158.Up2Date
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\refint\Mission.Api.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.pdb
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.genruntimeconfig.cache
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\ref\Mission.Api.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\appsettings.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.staticwebassets.endpoints.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.exe
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.deps.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.runtimeconfig.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.pdb
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Humanizer.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Npgsql.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Entities.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Repositories.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Services.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Services.pdb
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Entities.pdb
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Repositories.pdb
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.csproj.AssemblyReference.cache
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.AssemblyInfoInputs.cache
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.AssemblyInfo.cs
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.csproj.CoreCompileInputs.cache
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.sourcelink.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\scopedcss\bundle\Mission.Api.styles.css
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission..D685B158.Up2Date
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\refint\Mission.Api.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.pdb
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.genruntimeconfig.cache
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\ref\Mission.Api.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\appsettings.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.staticwebassets.endpoints.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.exe
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.deps.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.runtimeconfig.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.pdb
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Humanizer.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Npgsql.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Entities.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Repositories.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Services.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Services.pdb
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Entities.pdb
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.csproj.AssemblyReference.cache
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.AssemblyInfoInputs.cache
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.AssemblyInfo.cs
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.csproj.CoreCompileInputs.cache
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.sourcelink.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\scopedcss\bundle\Mission.Api.styles.css
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission..D685B158.Up2Date
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\refint\Mission.Api.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.pdb
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.genruntimeconfig.cache
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Api\obj\Debug\net8.0\ref\Mission.Api.dll

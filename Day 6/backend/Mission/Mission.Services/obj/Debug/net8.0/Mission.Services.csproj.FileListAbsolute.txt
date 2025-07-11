@@ -1,0 +1,53 @@
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.deps.json
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.pdb
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.AssemblyReference.cache
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfoInputs.cache
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfo.cs
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission..F9A2C6AE.Up2Date
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\obj\Debug\net8.0\refint\Mission.Services.dll
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.pdb
+C:\Users\manus\OneDrive\Desktop\DAY_6_FINAL\backend\Mission\Mission.Services\obj\Debug\net8.0\ref\Mission.Services.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.deps.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.pdb
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.pdb
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.pdb
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.AssemblyReference.cache
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfoInputs.cache
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfo.cs
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.sourcelink.json
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission..F9A2C6AE.Up2Date
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\refint\Mission.Services.dll
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.pdb
+E:\Internship Tatvasoft\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\ref\Mission.Services.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.deps.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Services.pdb
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\bin\Debug\net8.0\Mission.Entities.pdb
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.AssemblyReference.cache
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfoInputs.cache
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.AssemblyInfo.cs
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.sourcelink.json
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission..F9A2C6AE.Up2Date
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\refint\Mission.Services.dll
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\Mission.Services.pdb
+D:\TatvaSoft_Internship\Day 7\Day 7\backend\Mission\Mission.Services\obj\Debug\net8.0\ref\Mission.Services.dll
